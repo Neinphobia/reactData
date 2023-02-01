@@ -1,16 +1,14 @@
-{
-    "blogs":[
-        {
-            "title":"İlk bloğum",
-            "body":"Neden kullanırız \n bu uzun süreli kullanımın bir etkileri mi ?",
-            "author":"Furkan",
-            "id":1
-        },
-        {
-            "title":"Açılış partisi",
-            "body":"Neden kullanırız \n bu uzun süreli kullanımın bir etkileri mi ?",
-            "author":"Tayfun",
-            "id":2
-        }
-    ]
-}
+[
+  {
+    "title": "İlk bloğum",
+    "body": "Neden kullanırız \n bu uzun süreli kullanımın bir etkileri mi ?",
+    "author": "Furkan",
+    "id": 1
+  },
+  {
+    "title": "Açılış partisi",
+    "body": "Neden kullanırız \n bu uzun süreli kullanımın bir etkileri mi ?",
+    "author": "Tayfun",
+    "id": 2
+  }
+]
